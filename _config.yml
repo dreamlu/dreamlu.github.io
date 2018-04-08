@@ -1,4 +1,10 @@
-theme: jekyll-theme-minimal
 title: 个人简介
+<<<<<<< HEAD
 description: WeChat(a_862362681)
 logo: /img/logo.jpeg
+=======
+logo: /img/logo.png
+description: WeChat(a_862362681)
+show_downloads: false
+theme: jekyll-theme-minimal
+>>>>>>> 77347fbc172b8700b6840a5c3a008bd395959854
