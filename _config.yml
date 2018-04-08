@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
 title: 个人简介
-description: WeChat(a_862362681)
 logo: /img/logo.png
+description: WeChat(a_862362681)
+show_downloads: false
+theme: jekyll-theme-minimal
