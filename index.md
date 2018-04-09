@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 欢迎了解我
+[toc]
 
-You can use the [editor on GitHub](https://github.com/Dreamlu/publicBlog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 我的理念
+> 任何一种语言不过达成目标的途径罢了：需要，便去学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 我的经历
 
-### Markdown
+1.大一拥有自己的电脑～啦啦啦～开始接触C语言，下班学期学习Java,并开始产生了极大的兴趣
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.Jsp/C++/h5+js+css/Android/Python等等的接触了解学习，第一次写的web([志愿者网站](https://github.com/Dreamlu/volunteer)),还有一个简单的Android的美食app(源码已经没了......)，期间还了解过一些java的web框架SSM，拥有了自己的第一台与服务器,学期结束期间还写过个[通用后台系统](https://github.com/Dreamlu/common-system)
 
-```markdown
-Syntax highlighted code block
+3.大三，Linux/JAVA EE方向的学习，不过我们学的还是蛮古老的SSH;期间利用h5+ajax+java为某个政府部门写了个[请销假系统](https://github.com/Dreamlu/askforleave)
 
-# Header 1
-## Header 2
-### Header 3
+4.大三下半学期，即我现在的阶段，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dreamlu/publicBlog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 联系我
+微信：a_862362681
+QQ：862362681
+email:862362681@qq.com
