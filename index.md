@@ -14,11 +14,10 @@
 4.大三下半学期，即我现在的阶段，Android/Asp.net课程，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向( Any language is my tool)
 
 #### 联系我
-微信：a_862362681
-
-QQ：862362681
-
-email:862362681@qq.com
+微信：a_862362681<br>
+QQ：862362681<br>
+email:862362681@qq.com<br>
+<img src="./img/mywechat.JPG" alt="this is me!" width="200" height="210" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/myqq.JPG" alt="this is me!" width="200" height="210" >
 
 #### This is me!(emm...)
 <img src="./img/myphoto.jpg" alt="this is me!" width="200" height="260" >
