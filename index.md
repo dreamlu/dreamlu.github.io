@@ -21,4 +21,4 @@ QQ：862362681
 email:862362681@qq.com
 
 #### This is me!(emm...)
-<img src="./img/myphoto.jpg" alt="this is me!" width="300" height="400" >
+<img src="./img/myphoto.jpg" alt="this is me!" width="200" height="260" >
