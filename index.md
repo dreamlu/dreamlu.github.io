@@ -5,7 +5,7 @@
 
 #### 我的经历
 
-1.大一拥有自己的电脑～啦啦啦～开始接触C语言，下班学期学习Java,并开始对编程产生了极大的兴趣
+1.大一拥有自己的电脑～啦啦啦～开始接触C语言，下半学期学习Java,并开始对编程产生了极大的兴趣
 
 2.Jsp/C++/h5+js+css/Android/Python/Sql Server/mysql等等的接触了解学习，第一次写的web([志愿者网站](https://github.com/Dreamlu/volunteer)),还有一个简单的Android的美食app(源码已经没了......)，期间还了解过一些java的web框架SSM，拥有了自己的第一台云服务器,学期结束期间还写过个[通用后台系统](https://github.com/Dreamlu/common-system)
 
@@ -31,4 +31,4 @@ email:862362681@qq.com<br>
 <img src="./img/mywechat.JPG" alt="this is me!" width="200" height="210" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/myqq.JPG" alt="this is me!" width="200" height="210" >
 
 #### This is me!(emm...)
-<img src="./img/myphoto.jpg" alt="this is me!" width="200" height="260" >
+<img src="./img/myphoto.jpg" alt="this is me!" width="200" height="240" >
