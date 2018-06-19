@@ -11,7 +11,7 @@
 
 3.大三，C#/Linux/JAVA EE方向的学习，不过我们学的还是蛮古老的SSH;期间利用h5+ajax+java为某个政府部门写了个[请销假系统](https://github.com/Dreamlu/askforleave)
 
-4.大三下半学期，即我现在的阶段，Android/Asp.net课程，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向( Any language is my tool)
+4.大三下半学期，即我现在的阶段，Android/Asp.net课程，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向( Any language is my tool),一个简易的[购物小程序](https://github.com/Dreamlu/yq_shop)
 
 #### 我的事迹
 > 比较懒，不怎么参加比赛之类，由于学分的要求而参加了一些学校组织的比赛，平时“自娱自乐”罢了
