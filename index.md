@@ -13,6 +13,12 @@
 
 4.大三下半学期，即我现在的阶段，Android/Asp.net课程，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向( Any language is my tool),一个简易的[购物小程序](https://github.com/Dreamlu/yq_shop)
 
+5.beego + api ,[网站在线](http://hmeistyle.com)、小程序接口、警务系统
+
+#### 我接触过什么
+> 短信服务、对象存储、云服务、表格数据批量处理
+
+
 #### 我的事迹
 > 比较懒，不怎么参加比赛之类，由于学分的要求而参加了一些学校组织的比赛，平时“自娱自乐”罢了
 
@@ -31,4 +37,4 @@ email:862362681@qq.com<br>
 <img src="./img/mywechat.JPG" alt="this is me!" width="200" height="210" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/myqq.JPG" alt="this is me!" width="200" height="210" >
 
 #### This is me!(emm...)
-<img src="./img/myphoto.jpg" alt="this is me!" width="200" height="240" >
+<img src="./img/myphoto.jpg" alt="this is me!" width="150" height="180" >
