@@ -3,33 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://deercoder.com/post/the_maine_woods/</loc>
-    <lastmod>1864-08-01T01:56:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deercoder.com/post/the_lady_of_shalott/</loc>
-    <lastmod>1842-08-01T02:42:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deercoder.com/post/views-in-india-chiefly-among-the-himalaya-mountains/</loc>
-    <lastmod>1838-08-01T01:56:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deercoder.com/post/the_tempest/</loc>
-    <lastmod>1623-08-01T01:56:49+00:00</lastmod>
+    <loc>https://deercoder.com/post/</loc>
   </url>
   
   <url>
     <loc>https://deercoder.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://deercoder.com/post/</loc>
-    <lastmod>1864-08-01T01:56:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +18,6 @@
   
   <url>
     <loc>https://deercoder.com/</loc>
-    <lastmod>1864-08-01T01:56:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
