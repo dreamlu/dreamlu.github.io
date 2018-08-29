@@ -5,85 +5,129 @@
     <link>https://deercoder.com/post/</link>
     <description>Recent content in Posts on lu blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Information wants to be free [Stewart Brand, 1984]</copyright>
-    <lastBuildDate>Mon, 01 Aug 1864 01:56:49 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://deercoder.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Maine Woods</title>
-      <link>https://deercoder.com/post/the_maine_woods/</link>
-      <pubDate>Mon, 01 Aug 1864 01:56:49 +0000</pubDate>
+      <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
+      <link>https://deercoder.com/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deercoder.com/post/the_maine_woods/</guid>
-      <description>Ktaadn On the 31st of August, 1846, I left Concord in Massachusetts for Bangor and the backwoods of Maine, by way of the railroad and steamboat, intending to accompany a relative of mine engaged in the lumber-trade in Bangor, as far as a dam on the west branch of the Penobscot, in which property he was interested. From this place, which is about one hundred miles by the river above Bangor, thirty miles from the Houlton military road, and five miles beyond the last log-hut, I proposed to make excursions to Mount Ktaadn, the second highest mountain in New England, about thirty miles distant, and to some of the lakes of the Penobscot, either alone or with such company as I might pick up there.</description>
+      <guid>https://deercoder.com/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
+      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
+&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>The Lady of Shalott</title>
-      <link>https://deercoder.com/post/the_lady_of_shalott/</link>
-      <pubDate>Mon, 01 Aug 1842 02:42:45 -0500</pubDate>
+      <title>Elements showcase</title>
+      <link>https://deercoder.com/2015/05/elements-showcase/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deercoder.com/post/the_lady_of_shalott/</guid>
-      <description>Part I On either side the river lie
-Long fields of barley and of rye,
-That clothe the wold and meet the sky;
-And through the field the road runs by
-To many-towered Camelot;
-And up and down the people go,
-Gazing where the lilies blow
-Round an island there below,
-The island of Shalott.
-Willows whiten, aspens quiver,
-Little breezes dusk and shiver
-Through the wave that runs for ever</description>
+      <guid>https://deercoder.com/2015/05/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
+&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Views In India, Chiefly Among The Himalaya Mountains</title>
-      <link>https://deercoder.com/post/views-in-india-chiefly-among-the-himalaya-mountains/</link>
-      <pubDate>Wed, 01 Aug 1838 01:56:49 +0000</pubDate>
+      <title>Cover image showcase</title>
+      <link>https://deercoder.com/2015/05/cover-image-showcase/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deercoder.com/post/views-in-india-chiefly-among-the-himalaya-mountains/</guid>
-      <description>I have beheld nearly all the celebrated scenery of Europe, which poets and painters have immortalized, and of which all the tourists in the world are enamoured; but i have seen it surpassed in these unfrequented and almost unknown regions.
- Capt. Skinner&#39;s Journal of a Tour in the Himalaya Mountains   Preface In offering the following series of Views to the public, it would be superfluous to descant upon the extraordinary degree of interest which they possess, illustrating, as they do, a portion of our Indian territories hitherto little known, and comprising the most splendid Mountain Scenery which can be found throughout the world.</description>
+      <guid>https://deercoder.com/2015/05/cover-image-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>The Tempest</title>
-      <link>https://deercoder.com/post/the_tempest/</link>
-      <pubDate>Tue, 01 Aug 1623 01:56:49 +0000</pubDate>
+      <title>highlighted code showcase</title>
+      <link>https://deercoder.com/2015/03/highlighted-code-showcase/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deercoder.com/post/the_tempest/</guid>
-      <description>DRAMATIS PERSONAE (Persons Represented): ALONSO, King of Naples SEBASTIAN, his Brother PROSPERO, the right Duke of Milan ANTONIO, his Brother, the usurping Duke of Milan FERDINAND, Son to the King of Naples GONZALO, an honest old counselor ADRIAN, Lord FRANCISCO, Lord CALIBAN, a savage and deformed Slave TRINCULO, a Jester STEPHANO, a drunken Butler MASTER OF A SHIP BOATSWAIN MARINERS MIRANDA, Daughter to Prospero ARIEL, an airy Spirit IRIS, represented by Spirits CERES, represented by Spirits JUNO, represented by Spirits NYMPHS, represented by Spirits REAPERS, represented by Spirits DOGS, represented by Spirits Other Spirits attending on Prospero  Actus primus, Scena prima [On a ship at sea; a tempestuous noise of thunder and lightning heard]</description>
+      <guid>https://deercoder.com/2015/03/highlighted-code-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
+&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>The Lady of Shalott</title>
-      <link>https://deercoder.com/post/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Tags plugins showcase</title>
+      <link>https://deercoder.com/2014/10/tags-plugins-showcase/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://deercoder.com/post/about/</guid>
-      <description> 欢迎了解我 我的理念  任何一种语言不过达成目标的途径罢了：if need, study
- 我的经历 1.大一拥有自己的电脑～啦啦啦～开始接触C语言，下半学期学习Java,并开始对编程产生了极大的兴趣
-2.Jsp/C++/h5+js+css/Android/Python/Sql Server/mysql等等的接触了解学习，第一次写的web(志愿者网站),还有一个简单的Android的美食app(源码已经没了&amp;hellip;&amp;hellip;)，期间还了解过一些java的web框架SSM，拥有了自己的第一台云服务器,学期结束期间还写过个通用后台系统
-3.大三，C#/Linux/JAVA EE方向的学习，不过我们学的还是蛮古老的SSH;期间利用h5+ajax+java为某个政府部门写了个请销假系统
-4.大三下半学期，即我现在的阶段，Android/Asp.net课程，接触过微信小程序/NodeJs，学习go web中，未来主要发展后端方向( Any language is my tool),一个简易的购物小程序
-5.beego + api ,网站在线、小程序接口、警务系统
-我接触过什么  短信服务、对象存储、云服务、表格数据批量处理
- 我的事迹  比较懒，不怎么参加比赛之类，由于学分的要求而参加了一些学校组织的比赛，平时“自娱自乐”罢了
- 1.副班长(不管事儿～)
-2.浙江省计算机三级
-3.英语六级
-4.刚上大二时的多媒体设计大赛校级三等奖
-5.大二下的全国计算机设计大赛校级一等奖(仅参加过这两个编程类比赛，之后学分满了也就没必要了)
-6.大三上为某政府写了个请销假管理系统
-7.目前大三下中(或许还有个政府项目呢！？谁知道呢～)
-联系我 微信：a_862362681
-QQ：862362681
-email:862362681@qq.com
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;This is me!(emm&amp;hellip;) </description>
+      <guid>https://deercoder.com/2014/10/tags-plugins-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden social section showcase</title>
+      <link>https://deercoder.com/2014/08/hidden-social-section-showcase/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2014/08/hidden-social-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden tag section showcase</title>
+      <link>https://deercoder.com/2014/08/hidden-tag-section-showcase/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2014/08/hidden-tag-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden pagination showcase</title>
+      <link>https://deercoder.com/2014/08/hidden-pagination-showcase/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2014/08/hidden-pagination-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Video integrations showcase</title>
+      <link>https://deercoder.com/2014/08/video-integrations-showcase/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2014/08/video-integrations-showcase/</guid>
+      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>中文測試</title>
+      <link>https://deercoder.com/2013/10/chinese-test/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2013/10/chinese-test/</guid>
+      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image gallery showcase</title>
+      <link>https://deercoder.com/2013/02/image-gallery-showcase/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2013/02/image-gallery-showcase/</guid>
+      <description>&lt;p&gt;And here is the image gallery!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本語テスト</title>
+      <link>https://deercoder.com/2013/01/japanese-test/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://deercoder.com/2013/01/japanese-test/</guid>
+      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
