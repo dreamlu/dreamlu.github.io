@@ -21,38 +21,11 @@
     </item>
     
     <item>
-      <title>Cover Image</title>
-      <link>https://deercoder.com/tags/cover-image/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/cover-image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dailymotion</title>
-      <link>https://deercoder.com/tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/dailymotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Disqus</title>
       <link>https://deercoder.com/tags/disqus/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://deercoder.com/tags/disqus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github Theme</title>
-      <link>https://deercoder.com/tags/github-theme/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/github-theme/</guid>
       <description></description>
     </item>
     
@@ -75,42 +48,6 @@
     </item>
     
     <item>
-      <title>Hexo Theme</title>
-      <link>https://deercoder.com/tags/hexo-theme/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/hexo-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highlight Code</title>
-      <link>https://deercoder.com/tags/highlight-code/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/highlight-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html Elements</title>
-      <link>https://deercoder.com/tags/html-elements/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/html-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Gallery</title>
-      <link>https://deercoder.com/tags/image-gallery/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Japanese</title>
       <link>https://deercoder.com/tags/japanese/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
@@ -120,92 +57,11 @@
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>https://deercoder.com/tags/markdown/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pagination</title>
-      <link>https://deercoder.com/tags/pagination/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/pagination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Responsive</title>
       <link>https://deercoder.com/tags/responsive/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://deercoder.com/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://deercoder.com/tags/social/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag Plugins</title>
-      <link>https://deercoder.com/tags/tag-plugins/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/tag-plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://deercoder.com/tags/tags/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://deercoder.com/tags/test/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos Integration</title>
-      <link>https://deercoder.com/tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/videos-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vimeo</title>
-      <link>https://deercoder.com/tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://deercoder.com/tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://deercoder.com/tags/youtube/</guid>
       <description></description>
     </item>
     
