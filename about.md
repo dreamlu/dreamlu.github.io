@@ -3,12 +3,11 @@ layout: blog
 title: 关于dreamlu
 description: "关于dreamlu博客角落自述"
 data: 2018-08-05 09:19:11
+category: 关于我
 tags: 
-- LiberXue
+- dreamlu
 - 简述
-- 关于
-- Liber
-- Xue
+- 关于我
 - 坐井观天阔
 redirect_from:
   - /about/
