@@ -1,1 +1,1 @@
-主题来源:https://github.com/Liberxue/liberxue.github.io
+主题来源:https://github.com/kaeyleo/jekyll-theme-H2O
